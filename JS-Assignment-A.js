@@ -46,11 +46,8 @@ for( var index = 0; index < 12; index++ ) {
 console.log('---------------------------');
 // 2. Inside the for loop, console.log() the country for that city (e.g, "Abu Dhabi, UAE")
 // Hint: use a counter variable to access both 'cities' and 'countries'
-var citiesb = {
-    "UAE": "Abu Dhabi",
-    "Nigeria": 'Abuja',
-    
-};
+
+
 for(var i=0;i<cities.length;i++){
     if( cities[i] === "???" ) {
         i++
